@@ -1,0 +1,4 @@
+﻿  40_2574.cpp
+C:\Users\Ali Elsebaie\Desktop\Ali\Semester 7\Computer Graphics\Assignement 1\40_2574.cpp(875,34): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ali Elsebaie\Desktop\Ali\Semester 7\Computer Graphics\Assignement 1\40_2574.cpp(104): warning C4172: returning address of local variable or temporary: res
+  Assignement 1.vcxproj -> C:\Users\Ali Elsebaie\Desktop\Ali\Semester 7\Computer Graphics\Assignement 1\Debug\Assignement 1.exe
